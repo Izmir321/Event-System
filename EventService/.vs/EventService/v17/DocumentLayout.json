@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{802CAE30-D46F-47B7-ACEF-35234A4ED6D5}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{802CAE30-D46F-47B7-ACEF-35234A4ED6D5}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\persistence\\models\\repositoryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\repositoryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802CAE30-D46F-47B7-ACEF-35234A4ED6D5}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802CAE30-D46F-47B7-ACEF-35234A4ED6D5}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\persistence\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\persistence\\repositories\\ibaserepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\ibaserepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\persistence\\repositories\\ieventrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\ieventrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\application\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|solutionrelative:application\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\application\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|solutionrelative:application\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802CAE30-D46F-47B7-ACEF-35234A4ED6D5}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\presentation\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802CAE30-D46F-47B7-ACEF-35234A4ED6D5}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\application\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|solutionrelative:application\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\persistence\\entities\\evententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\evententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\application\\models\\createeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|solutionrelative:application\\models\\createeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\persistence\\entities\\packageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\packageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\persistence\\entities\\eventpackagesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\eventpackagesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\application\\models\\eventresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58933D9F-CCC1-46D9-80A1-3713B93F7CAC}|Application\\Application.csproj|solutionrelative:application\\models\\eventresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802CAE30-D46F-47B7-ACEF-35234A4ED6D5}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{802CAE30-D46F-47B7-ACEF-35234A4ED6D5}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|c:\\users\\iz\\desktop\\event-system\\eventservice\\persistence\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0038C-93D2-4400-803A-6E522EAD53AD}|Persistence\\Persistence.csproj|solutionrelative:persistence\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:49:52.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:40:25.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T09:45:11.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:45:07.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEventRepository1.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Repositories\\IEventRepository1.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IEventRepository1.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Repositories\\IEventRepository1.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IEventRepository1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:30:27.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseRepository1.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Repositories\\IBaseRepository1.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IBaseRepository1.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Repositories\\IBaseRepository1.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IBaseRepository1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:30:03.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Services\\EventService.cs",
+              "RelativeToolTip": "Application\\Services\\EventService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:47:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IEventService.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Services\\IEventService.cs",
+              "RelativeToolTip": "Application\\Services\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:34:22.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryResult.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Models\\RepositoryResult.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\RepositoryResult.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Models\\RepositoryResult.cs",
+              "RelativeToolTip": "Persistence\\Models\\RepositoryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:55:41.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Presentation\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Presentation\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:56:59.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Models\\Event.cs",
+              "RelativeToolTip": "Application\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:43:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventEntity.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Entities\\EventEntity.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\EventEntity.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Entities\\EventEntity.cs",
+              "RelativeToolTip": "Persistence\\Entities\\EventEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:20:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateEventRequest.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Models\\CreateEventRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\CreateEventRequest.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Models\\CreateEventRequest.cs",
+              "RelativeToolTip": "Application\\Models\\CreateEventRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:20:17.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PackageEntity.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Entities\\PackageEntity.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\PackageEntity.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Entities\\PackageEntity.cs",
+              "RelativeToolTip": "Persistence\\Entities\\PackageEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:22:45.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventPackagesEntity.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Entities\\EventPackagesEntity.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\EventPackagesEntity.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Entities\\EventPackagesEntity.cs",
+              "RelativeToolTip": "Persistence\\Entities\\EventPackagesEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:22:37.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventResult.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Models\\EventResult.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\EventResult.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Application\\Models\\EventResult.cs",
+              "RelativeToolTip": "Application\\Models\\EventResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:20:54.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Presentation",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T12:40:25.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\Contexts\\DataContext.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\Event-System\\EventService\\Persistence\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "Persistence\\Contexts\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:42:59.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

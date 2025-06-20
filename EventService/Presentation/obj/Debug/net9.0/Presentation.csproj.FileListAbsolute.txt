@@ -1,0 +1,6 @@
+C:\Users\iz\Desktop\Event-System\EventService\Presentation\obj\Debug\net9.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\iz\Desktop\Event-System\EventService\Presentation\obj\Debug\net9.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iz\Desktop\Event-System\EventService\Presentation\obj\Debug\net9.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\iz\Desktop\Event-System\EventService\Presentation\obj\Debug\net9.0\Presentation.AssemblyInfo.cs
+C:\Users\iz\Desktop\Event-System\EventService\Presentation\obj\Debug\net9.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\iz\Desktop\Event-System\EventService\Presentation\obj\Debug\net9.0\Presentation.MvcApplicationPartsAssemblyInfo.cache

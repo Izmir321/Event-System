@@ -1,0 +1,5 @@
+C:\Users\iz\Desktop\Event-System\EventService\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\iz\Desktop\Event-System\EventService\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iz\Desktop\Event-System\EventService\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\iz\Desktop\Event-System\EventService\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+C:\Users\iz\Desktop\Event-System\EventService\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
